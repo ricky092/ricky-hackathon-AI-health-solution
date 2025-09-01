@@ -1,8 +1,4 @@
 Mood Journal - AI-Powered Emotion Tracker
-https://img.shields.io/badge/Version-1.0.0-blue.svg
-https://img.shields.io/badge/Python-3.8%252B-green.svg
-https://img.shields.io/badge/Flask-2.3.3-lightgrey.svg
-https://img.shields.io/badge/MySQL-8.0-orange.svg
 
 A web application that helps users track their emotional well-being through journaling with AI-powered sentiment analysis.
 
@@ -46,3 +42,4 @@ MySQL Server 8.0 or higher
 Node.js (for optional frontend tooling)
 
 Git
+
